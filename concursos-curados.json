@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-10-15",
+  "curationNote": "Registros selecionados manualmente a partir de páginas e editais da banca Cebraspe, consultados em 15/10/2026. Alterações posteriores exigem nova verificação.",
+  "records": [
+    {
+      "id": "cd-2026-analista",
+      "title": "Câmara dos Deputados — Analista Legislativo",
+      "organ": "Câmara dos Deputados",
+      "sphere": "Federal",
+      "uf": "DF",
+      "level": "Superior",
+      "area": "Legislativo",
+      "vacancies": null,
+      "begin": "2026-10-15",
+      "end": "2026-11-17",
+      "url": "https://www.cebraspe.org.br/concursos/cd_26_analista",
+      "summary": "Edital para Analista Legislativo. Consulte os cargos, lotação, requisitos e retificações na página da banca.",
+      "featured": true
+    },
+    {
+      "id": "cgu-2026-auditor",
+      "title": "CGU — Auditor Federal de Finanças e Controle",
+      "organ": "Controladoria-Geral da União",
+      "sphere": "Federal",
+      "uf": "Nacional",
+      "level": "Superior",
+      "area": "Controle e TI",
+      "vacancies": 60,
+      "begin": "2026-10-10",
+      "end": "2026-11-04",
+      "url": "https://www.cebraspe.org.br/concursos/cgu_26_affc",
+      "summary": "60 vagas informadas pela banca nas áreas de auditoria e tecnologia da informação. Confira requisitos e lotações.",
+      "featured": true
+    },
+    {
+      "id": "sefaz-al-2026",
+      "title": "Sefaz-AL — Concurso da Secretaria da Fazenda",
+      "organ": "Secretaria de Estado da Fazenda de Alagoas",
+      "sphere": "Estadual",
+      "uf": "AL",
+      "level": "Superior",
+      "area": "Fiscal",
+      "vacancies": 40,
+      "begin": "2026-09-17",
+      "end": "2026-10-21",
+      "url": "https://www.cebraspe.org.br/concursos/sefaz_al_26",
+      "summary": "Concurso da administração tributária. Datas previstas no edital; verifique alterações e requisitos na banca.",
+      "featured": true
+    },
+    {
+      "id": "cbm-al-2026",
+      "title": "Corpo de Bombeiros Militar de Alagoas",
+      "organ": "CBM-AL",
+      "sphere": "Estadual",
+      "uf": "AL",
+      "level": "Consultar edital",
+      "area": "Segurança pública",
+      "vacancies": 172,
+      "begin": "2026-09-18",
+      "end": "2026-10-26",
+      "url": "https://www.cebraspe.org.br/concursos/cbm_al_26",
+      "summary": "Período reaberto após retificação oficial. Regras e exigências variam por curso de formação.",
+      "featured": false
+    },
+    {
+      "id": "pm-al-2026",
+      "title": "Polícia Militar de Alagoas — Oficiais e Praças",
+      "organ": "PM-AL",
+      "sphere": "Estadual",
+      "uf": "AL",
+      "level": "Consultar edital",
+      "area": "Segurança pública",
+      "vacancies": 530,
+      "begin": "2026-09-14",
+      "end": "2026-10-16",
+      "url": "https://www.cebraspe.org.br/concursos/pm_al_26",
+      "summary": "Reabertura das inscrições segundo comunicado do Cebraspe. Confirme eventuais retificações antes de se inscrever.",
+      "featured": false
+    }
+  ]
+}

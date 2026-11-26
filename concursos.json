@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-10-15",
+  "generatedAt": "2026-11-26T21:43:07.334Z",
+  "status": "curated_schedule",
+  "discoveryStatus": "ok",
+  "curationNote": "Registros selecionados manualmente a partir de páginas e editais da banca Cebraspe, consultados em 15/10/2026. Alterações posteriores exigem nova verificação.",
+  "coverage": "Datas da curadoria oficial. Monitoramento de manchetes não é verificação de editais.",
+  "records": [
+    {
+      "id": "cd-2026-analista",
+      "title": "Câmara dos Deputados — Analista Legislativo",
+      "organ": "Câmara dos Deputados",
+      "sphere": "Federal",
+      "uf": "DF",
+      "level": "Superior",
+      "area": "Legislativo",
+      "vacancies": null,
+      "begin": "2026-10-15",
+      "end": "2026-11-17",
+      "url": "https://www.cebraspe.org.br/concursos/cd_26_analista",
+      "summary": "Edital para Analista Legislativo. Consulte os cargos, lotação, requisitos e retificações na página da banca.",
+      "featured": true
+    },
+    {
+      "id": "cgu-2026-auditor",
+      "title": "CGU — Auditor Federal de Finanças e Controle",
+      "organ": "Controladoria-Geral da União",
+      "sphere": "Federal",
+      "uf": "Nacional",
+      "level": "Superior",
+      "area": "Controle e TI",
+      "vacancies": 60,
+      "begin": "2026-10-10",
+      "end": "2026-11-04",
+      "url": "https://www.cebraspe.org.br/concursos/cgu_26_affc",
+      "summary": "60 vagas informadas pela banca nas áreas de auditoria e tecnologia da informação. Confira requisitos e lotações.",
+      "featured": true
+    },
+    {
+      "id": "sefaz-al-2026",
+      "title": "Sefaz-AL — Concurso da Secretaria da Fazenda",
+      "organ": "Secretaria de Estado da Fazenda de Alagoas",
+      "sphere": "Estadual",
+      "uf": "AL",
+      "level": "Superior",
+      "area": "Fiscal",
+      "vacancies": 40,
+      "begin": "2026-09-17",
+      "end": "2026-10-21",
+      "url": "https://www.cebraspe.org.br/concursos/sefaz_al_26",
+      "summary": "Concurso da administração tributária. Datas previstas no edital; verifique alterações e requisitos na banca.",
+      "featured": true
+    },
+    {
+      "id": "cbm-al-2026",
+      "title": "Corpo de Bombeiros Militar de Alagoas",
+      "organ": "CBM-AL",
+      "sphere": "Estadual",
+      "uf": "AL",
+      "level": "Consultar edital",
+      "area": "Segurança pública",
+      "vacancies": 172,
+      "begin": "2026-09-18",
+      "end": "2026-10-26",
+      "url": "https://www.cebraspe.org.br/concursos/cbm_al_26",
+      "summary": "Período reaberto após retificação oficial. Regras e exigências variam por curso de formação.",
+      "featured": false
+    },
+    {
+      "id": "pm-al-2026",
+      "title": "Polícia Militar de Alagoas — Oficiais e Praças",
+      "organ": "PM-AL",
+      "sphere": "Estadual",
+      "uf": "AL",
+      "level": "Consultar edital",
+      "area": "Segurança pública",
+      "vacancies": 530,
+      "begin": "2026-09-14",
+      "end": "2026-10-16",
+      "url": "https://www.cebraspe.org.br/concursos/pm_al_26",
+      "summary": "Reabertura das inscrições segundo comunicado do Cebraspe. Confirme eventuais retificações antes de se inscrever.",
+      "featured": false
+    }
+  ],
+  "leads": [
+    {
+      "id": "lead-34115f62c71acd6b",
+      "title": "Educação de SP abre inscrições para concurso com 5.000 vagas de professores nesta quinta-feira (26) - agenciasp.sp.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZbWdqZ3JwVEZRbVlHaF9vb0lsMzZBNHFYbW1mVTIzN28yMndDaFhDT3l6S3pLaUM3cTVTZ1QxNG5IV1RUbDRNRVljX05TZ2V4b3ltVVhoZzQwV1NtLVN5X0ZzdUctMnlNSVZDdGs1OHF6bmZTZTdr?oc=5",
+      "published": "2026-11-26",
+      "source": "https://www.agenciasp.sp.gov.br"
+    },
+    {
+      "id": "lead-b43910f326682b18",
+      "title": "Coren-SP abre inscrições para concurso público com vagas para enfermeiros - Coren-SP",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSzJBU0wwUkhNRW5RSmpQemRhUF9lb2ZmWThJZEFxOGc1amx5Ym1lVUNaWncwSTlubnEwSUlSaUZnMTVqcHZZcWN1SVFob3JGN3AzU0FoZG54U0tZc2Z1R29peG90andJc012T0ZwZkwwbURQb2o2MU1WcVhoTlN0RTVRT2x1dTg5MFVYdEVweHJ3STVsVDNfZmJzWWYtVkZnR05DdnNCQjQ2QWNLUzg4bi1XRVc?oc=5",
+      "published": "2026-11-26",
+      "source": "https://portal.coren-sp.gov.br"
+    },
+    {
+      "id": "lead-328b22eb11b50c5d",
+      "title": "Concurso Público nº 001/2026:... - Prefeitura de Iepê",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVXNPa2lZT3V6Q19BaHNPM3RpUzUtYjVBdFJTNTczcmR1Y0UwNjZTeHZDQVZhWFA1WHhpclExSGxjZkdsVjlVQ0dBR0JEckxqSXJrNzZRSUZad2w4QXgzQVE1M3RWQ0hTVnR6cC1aRzFpa0pQbEctS3k2LWtsNjlvTWY2TUx6bDJsejdwZUFwSWg3YkFWU2R3dDRPRUNaRlNjM3RjZXdwUjEwT3pTOVF4aXdFWURnQQ?oc=5",
+      "published": "2026-11-26",
+      "source": "https://www.iepe.sp.gov.br"
+    },
+    {
+      "id": "lead-b9f155ff2704e8b7",
+      "title": "Concurso Público do Cofen Oferece Oportunidades para 13 Cargos de Nível Superior - Biblioteca Virtual de Enfermagem - Cofen",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU01WY0NXYXlsM2NaWXpIZEtWdWhRS09EcDVfeVdnaUlxUFZ0ekF6TE1CTmxSdXI5eTh4b3J6eTF5Vl91OFNzOEg0aV9LNXlNZlBfTG1DZmExNmM4d2l3dlU5aUliMS1CQXJPczlEWUk3dllYOHB0V3NpYlAxSTlZUmxfVmZrdlprdnBrSTlNaVNaZG81cDZKZ0RTQlZ5MXZMdWdrbENwSGtqMzZTRUlCNlVUbw?oc=5",
+      "published": "2026-11-26",
+      "source": "https://biblioteca.cofen.gov.br"
+    },
+    {
+      "id": "lead-b10cef2b164872f5",
+      "title": "CONTROLADORIA-GERAL DA UNIÃO (CGU) CONCURSO PÚBLICO PARA O PROVIMENTO DE VAGAS E A FORMAÇÃO DE CADASTRO DE RESERVA EM CARGOS - UnB",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHZnZTFqSUc0am55ZE1SemlkRjhpbmFXT1ZLamgzMzJtVXNtd3VVa0hIaGlRdU5STjQ0UjFSX3gyZGNqNVBRVDhUSDAzMl90QjlRaURzVzhLRWx4RU1MaXBpRkp2WlFzczJ6OWpRam5DWHhGcm5ncl9JZDVEeFNnTHo3LVZ3eFgxSzJIb3NKWmJfZ0t3bVNNWDU1QmxtY2kwaFZiMzRxLUJWQXRkYXBsRnY2RzMxQWFMTjJOZzNsTExRODlWV3c?oc=5",
+      "published": "2026-11-25",
+      "source": "https://cdn.cebraspe.org.br"
+    },
+    {
+      "id": "lead-ff33df5a828970c4",
+      "title": "Universidade de Brasília registra 11,7 mil inscrições no PAS 3 Subprograma 2024 - Cebraspe",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTA2U0h0WDNsY2pjUEFfNHBESHZSSFVjYXVlNVRsY3VvUWpMNFVDQ2FUSlRmMUtIc2d1X0VOUXRFWExsR3dxSDktTnNFUDFBRVd2WkEwNkNRTWVmWW16RmUxcVdEQ3RwU0hEaWJtR0JrRGd0RUFVTzlzMU9MUzl0Q1U4YnMtN1B2VXBmSVVPelZLQnZEY005bldVMUI0dVlEVnVKaXhUSURmSjA?oc=5",
+      "published": "2026-11-25",
+      "source": "https://www.cebraspe.org.br"
+    },
+    {
+      "id": "lead-5bfaeaaca022c4e1",
+      "title": "Concurso público do Cofen oferece oportunidades para 13 cargos de nível superior - Cofen",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnZnY2ItZnlhUFV2TlNkekxUVWZXNmdXN01rRTFaQXpkLWlxVHllQUo0TEhkdVA0X2t1aDZMMnh1ekwzY3BkaFhpSFZLZ1F5TDRoTllTS2hWUHRqQUlzaTRYUUQxVlMtRThqRnY2Qm9mamg2VmItdjBlS2NxcXNfOUhHVE1fYUxBNURWbUxwaFdVTng3dXo3bkl0MmpyajJyUUdYOUNwNlU3QQ?oc=5",
+      "published": "2026-11-25",
+      "source": "https://www.cofen.gov.br"
+    },
+    {
+      "id": "lead-b6788fd5726375d9",
+      "title": "EDITAL Nº 1/2026 CONCURSO PÚBLICO PARA PROVIMENTO DE VAGAS E FORMAÇÃO DE CADASTRO DE RESERVA PARA CARGOS DE NÍVEL SUPERIOR - Cofen",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUEZvTXNrV2VBVDN5Y3dzSU9nVkR2eTV3blF5WUY5ODIwblZFbVZjNnAtYzNzX2hxYktMRWZveDdRM1JDczVPaFhJTjZRcFBwUVhuZ2tpazJsVVEyWEZNWWJ3UHlfV0RPS29UXzFmc2ZmdjZFUEduTGlndGg2Z0ZYVURCQlE3MTJVRXlOMnpZeVpJTGdXcU5HSnpOQWdLUVFQVnJjMkRfQkl0OXdWTmVrQ2ZVV202UktKT1hrXzJmYU9fLWdTUVRIUk1hemNkOTMxbkxLU1pabXREMTU5bE8xMQ?oc=5",
+      "published": "2026-11-25",
+      "source": "https://www.cofen.gov.br"
+    },
+    {
+      "id": "lead-7a5b902fe61aadfb",
+      "title": "Concurso da Prefeitura de Chapecó prevê 91 vagas - Prefeitura de Chapecó",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjF3QWZva2h6MWxWUVN1U2lfblQtVlVmWWpKRnBuSHdWRll0SUtTSklyOUtVUmEtUzlCSWZicVM5X2JmQVBXNGtxZW1DVzhZNHlkQTBQYTE2aXBDNE1KQjRUb0tWOUE3RS04NVFYNkZsdExQR2xTZXM2eDB0c0tUalFFcXlTbFBocTkyZ0xyTXRiX0hCbTNN?oc=5",
+      "published": "2026-11-25",
+      "source": "https://www.chapeco.sc.gov.br"
+    },
+    {
+      "id": "lead-2af2b628c808dd4d",
+      "title": "MEC oferta cerca de 70 mil vagas em formação continuada em educação especial inclusiva - Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNDdvelFYVU9ra1hnbHVHaF96Z0JVNFVrNHM3cHpnY3Nmd2dYSlJfSXdOWXEtQTVYcDEtRkxYMUU2anlFZ0lzbWwwOXA2a043S3p5NEZoUms0el9Sc1pHc2tKbkI0RFFLcnJjZ2lPOXpnRlN4MktLTjBzS1BjUlRLdVZNcEQ0ZFk4U2pWLTdQOF90TDhFeENjWlBIY24wdU1jTGpfZGtkak9OOWdubnNUZDhmLXZCMldXVlMwQXBKSmJBMEVIR1FEZzU5VXlENW1KUUhHUG1jTThYMGJoejVubg?oc=5",
+      "published": "2026-11-25",
+      "source": "https://www.gov.br"
+    },
+    {
+      "id": "lead-16670bf643eec995",
+      "title": "PREFEITURA MUNICIPAL DE JANDIRA EDITAL DE CHAMAMENTO PÚBLICO EMERGENCIAL Nº 003/2026 A Prefeitura Municipal de Jandira, por in - Jandira",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUTZoZGdxYnQybTYwTmsybER5U0ZFcGJIb1BRUU9iM0NsOUIxMFlTZS1ZNkhSUEhYNjNNbTFscWgzUVZXTkVNTlJOQVFCTzJ4XzNUeWlORUJWSTgtZTQ0aXRubmRNSnA4d1NZb3J0bXJhVjN4V295SjVBd1VzQUVNSXFVZ2UtZ3ZmU3hHV2RBSVRYaHBOTTQzZ0lXSjM1bVJzczJfdi12TmJJQ1N0QjE1VHhsM294WGgwa202enY4V0lzZ3RKVklzdVpVcldYS0VwMlNHd2xjMDN6aWxjcVZjUw?oc=5",
+      "published": "2026-11-25",
+      "source": "https://apisite.jandira.sp.gov.br"
+    },
+    {
+      "id": "lead-464c866ea111d67e",
+      "title": "PREFEITURA DE ORÓS PRORROGA INSCRIÇÕES DO CONCURSO PÚBLICO COM 95 VAGAS - Prefeitura de Orós",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGNSSkxzVW8xMzNuYXo1b3NRRXV5N1hCSjhYNUxFT3NhbmhqemdLM29mZHFnVUJHMDRialRkZVh0Qjg4bTJIT0xweU5naExnMTZ2TG9qWXZ2RDg5SHpSWkQ1Rm1ZcGd0LUZUMnBLcm9Qd1JuRDlhX0ZOWFFwTXBNaU0zek9ycTdVa0R5M2RB?oc=5",
+      "published": "2026-11-25",
+      "source": "https://oros.ce.gov.br"
+    },
+    {
+      "id": "lead-c0d3a32c9e843de0",
+      "title": "ÚLTIMO DIA DE INSCRIÇÕES PARA O CONCURSO PÚBLICO DE CRUZ DO ESPÍRITO SANTO - Prefeitura de Cruz do Espírito Santo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHI2RW9STlFRMmZPS1BDSWdqZy1FRjVfbVlGQTNmOVVzWm5RSDZqQzkwbjBSbnpqcFZkSkNCR0RWSUpHMHRpTWgwMWRrWDZ1MjJFeW1GSktqLUpETWVSNGE3eV8xa0JEM18yMFBJeDlCODJoUWV0eHFPUy1adjFzdTFFOVIxWksyU1J4QVlpd3JqVk5VSkVNcGU0bDZDZG9BS0QtQjBFWF9keEp3WGFzYjBzQnNxMkxUOGRFQzV3?oc=5",
+      "published": "2026-11-25",
+      "source": "https://cruzdoespiritosanto.pb.gov.br"
+    },
+    {
+      "id": "lead-8a51d0d110295353",
+      "title": "PREFEITURA DE ORÓS PRORROGA INSCRIÇÕES DO CONCURSO PÚBLICO COM 95 VAGAS - Prefeitura de Orós",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ickpUVENaNVhjZEZsZlNBSXNLX3puUmtFU3lERnlOU0djNGdJWnFYRDQzc2oyREJvSjZKVVJOUWRCbnpvOExJN1VvbWtSdw?oc=5",
+      "published": "2026-11-25",
+      "source": "https://oros.ce.gov.br"
+    },
+    {
+      "id": "lead-6eb2a96dd7eb8e2d",
+      "title": "Ed_42_2026_SEMEC_Porto_Velho_Res_Final_Titulos_Final_Concurso - UnB",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbFExQXJRSm9LajFsRkdobnVJTm9PWUtZc1Y0ZE13dTk5RFlyT212X1FYOFVSOXJWYl9KVEw0N21UYkRTVE5tajc1TUJ1aWVGLUNRNXlPVDI4T2dKYWhnVWhHZHlEem9IU3VEbmVjTkZuNl9fUkdZajAzMVBaVmRTc2lPN24xR2g0cVBPem9WSzZfRGZuYzJpMkRMZzY4Qm1UN21nUk5QUU1mMkJ2Z3l0eXFzUjdRdTY2UkVhbHdVdXQ1a050ZlBHRVZIaDlESDRmQl9lQW0tTQ?oc=5",
+      "published": "2026-11-24",
+      "source": "https://cdn.cebraspe.org.br"
+    },
+    {
+      "id": "lead-cd50fd18328d9031",
+      "title": "GOVERNO DO ESTADO DE PERNAMBUCO SECRETARIA DE ADMINISTRAÇÃO – SAD/PE SECRETARIA DE DEFESA SOCIAL – SDS/PE CONCURSO PÚBLIC - Cebraspe",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFJaTVN2SzREdTZELTlXSGlIV2J0UWVtWEhSOE5rZGwzWmt5SWFRdG5aOUlBcERsT2lpMS1nM1lRbzgtMkZwTHJYdHlSVUwxN3pEQjBlNE54WGlOR2pCc1gweEthbUF5Y0FBNlBzNFVZV3h5bnl6dnlfZ212bzVhQlZUMTlzQktHaEZNNmhuT0pETks3cFdXWXM4bFpzaTRvbE16Y1ZpLVQ2WXFGYS1BRDVEUjdRM19xc3hJRlJpckNOUQ?oc=5",
+      "published": "2026-11-24",
+      "source": "https://cdn.cebraspe.org.br"
+    }
+  ]
+}

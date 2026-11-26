@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "product": "Painel de Oportunidades de Emprego",
+  "engine": "QA Integridade 1.0",
+  "generatedAt": "2026-11-26T21:43:07.843Z",
+  "status": "passed_with_warnings",
+  "summary": "Integridade estrutural aprovada com 3 alerta(s) para revisão.",
+  "totals": {
+    "checks": 28,
+    "passed": 28,
+    "failed": 0,
+    "warnings": 3
+  },
+  "metrics": {
+    "jobReferences": 12,
+    "contestRecords": 5,
+    "contestsInRegistrationPeriod": 0,
+    "contestsWithExpiredDeadline": 5,
+    "authorProjects": 0,
+    "enabledAuthorProjects": 0
+  },
+  "checks": [
+    {
+      "name": "empregos_timestamp_iso",
+      "passed": true,
+      "detail": "data/atualizacoes.json deve possuir generatedAt ISO válido."
+    },
+    {
+      "name": "empregos_atualizacao_recente",
+      "passed": true,
+      "detail": "O catálogo de empregos deve ter sido gerado nas últimas 8 horas e não pode estar no futuro."
+    },
+    {
+      "name": "empregos_status",
+      "passed": true,
+      "detail": "Status de empregos deve ser ok ou partial após a rotina de atualização."
+    },
+    {
+      "name": "empregos_feed_contadores",
+      "passed": true,
+      "detail": "Os contadores dos três feeds devem ser coerentes e pelo menos uma fonte deve responder."
+    },
+    {
+      "name": "empregos_status_coerente",
+      "passed": true,
+      "detail": "O status do catálogo deve corresponder à quantidade de feeds consultados com sucesso."
+    },
+    {
+      "name": "empregos_registros_array",
+      "passed": true,
+      "detail": "O catálogo de empregos deve ser uma lista com até 120 registros."
+    },
+    {
+      "name": "empregos_registros_consistentes",
+      "passed": true,
+      "detail": "Cada referência deve ter ID e URL únicos, fonte conhecida, link Google Notícias HTTPS e data coerente."
+    },
+    {
+      "name": "concursos_curadoria_data",
+      "passed": true,
+      "detail": "A curadoria de concursos deve informar a data da última conferência humana."
+    },
+    {
+      "name": "concursos_curadoria_array",
+      "passed": true,
+      "detail": "A curadoria deve conter entre 1 e 200 registros oficiais."
+    },
+    {
+      "name": "concursos_curadoria_consistente",
+      "passed": true,
+      "detail": "Os concursos curados devem possuir IDs únicos, datas em ordem e URLs HTTPS de domínios oficiais permitidos."
+    },
+    {
+      "name": "concursos_timestamp_iso",
+      "passed": true,
+      "detail": "data/concursos.json deve possuir generatedAt ISO válido."
+    },
+    {
+      "name": "concursos_atualizacao_recente",
+      "passed": true,
+      "detail": "O catálogo de concursos deve ter sido compilado nas últimas 8 horas e não pode estar no futuro."
+    },
+    {
+      "name": "concursos_status_descoberta",
+      "passed": true,
+      "detail": "O estado da descoberta de notícias de concursos deve ser ok, partial ou offline."
+    },
+    {
+      "name": "concursos_registros_array",
+      "passed": true,
+      "detail": "O catálogo público de concursos deve ser uma lista com até 200 registros."
+    },
+    {
+      "name": "concursos_publicos_iguais_curadoria",
+      "passed": true,
+      "detail": "O catálogo público deve corresponder exatamente à curadoria; manchetes descobertas não podem virar editais automaticamente."
+    },
+    {
+      "name": "concursos_data_curadoria_coerente",
+      "passed": true,
+      "detail": "A data de verificação exibida deve corresponder à data da curadoria."
+    },
+    {
+      "name": "concursos_leads_array",
+      "passed": true,
+      "detail": "As manchetes para conferência devem ser uma lista com até 16 itens."
+    },
+    {
+      "name": "concursos_leads_consistentes",
+      "passed": true,
+      "detail": "As manchetes de descoberta devem ser recentes, únicas e provenientes de fontes oficiais identificadas."
+    },
+    {
+      "name": "publicidade_formato",
+      "passed": true,
+      "detail": "O catálogo autoral deve conter uma lista com até 12 projetos."
+    },
+    {
+      "name": "publicidade_anuncios_consistentes",
+      "passed": true,
+      "detail": "Os anúncios habilitados devem estar completos e todos os links informados devem usar HTTPS."
+    },
+    {
+      "name": "publicidade_data_atualizacao",
+      "passed": true,
+      "detail": "updatedAt da publicidade deve ser ISO válido ou null."
+    },
+    {
+      "name": "identidade_produto",
+      "passed": true,
+      "detail": "O título da aba e o título principal devem usar “Painel de Oportunidades de Emprego”."
+    },
+    {
+      "name": "concursos_fallback_offline_valido",
+      "passed": true,
+      "detail": "O HTML deve conter um catálogo JSON válido para consulta offline de concursos."
+    },
+    {
+      "name": "concursos_fallback_igual_curadoria",
+      "passed": true,
+      "detail": "O catálogo offline embutido no HTML deve corresponder à curadoria atual de concursos."
+    },
+    {
+      "name": "indicador_qa_na_interface",
+      "passed": true,
+      "detail": "A interface deve apresentar o estado da última verificação do motor de QA."
+    },
+    {
+      "name": "indicador_acessos_na_interface",
+      "passed": true,
+      "detail": "A interface deve apresentar o contador agregado de acessos com namespace e chave fixos."
+    },
+    {
+      "name": "agenda_duas_vezes_ao_dia",
+      "passed": true,
+      "detail": "O GitHub Actions deve agendar duas execuções diárias: 06h17 e 18h17 no horário de Brasília."
+    },
+    {
+      "name": "qa_antes_da_publicacao",
+      "passed": true,
+      "detail": "O motor de QA deve executar antes da etapa que publica os catálogos."
+    }
+  ],
+  "warnings": [
+    {
+      "code": "CONTEST_CURATED_STALE",
+      "message": "A curadoria de concursos foi conferida há 42 dias. É necessária revisão humana de editais, retificações, suspensões e cancelamentos."
+    },
+    {
+      "code": "NO_CONTESTS_IN_PERIOD",
+      "message": "Nenhum concurso da curadoria possui prazo de inscrição dentro do período informado na data desta execução."
+    },
+    {
+      "code": "EXPIRED_CONTESTS_PRESENT",
+      "message": "5 concurso(s) possuem prazo informado encerrado e serão exibidos como encerrados, não como inscrições abertas."
+    }
+  ],
+  "errors": []
+}
